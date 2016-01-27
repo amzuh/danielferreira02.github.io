@@ -1254,7 +1254,15 @@ width: 77%;
 	.abc{
 		width:100%;
 	}
+
+	.brain img {
+		display: none;
+	}
 	
+	.rightBrain {
+		padding-left: 15px;
+		margin-top: 20px;
+	}
 	.navbar.navbar-inverse.navbar-static-top a {
 		padding-left: 17px;
 	}
