@@ -1250,6 +1250,18 @@ width: 77%;
 	#header h3 span{
 		font-size: 16px;
 	}
+
+	.bannerh {
+    	height: 225px !important;
+	}
+
+	.bannerText {
+		margin:20px;
+	}
+
+	.bannerText h1 {
+		font-size: 26px;
+	}
 	
 	.abc{
 		width:100%;
