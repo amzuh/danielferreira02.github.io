@@ -1168,7 +1168,8 @@ width: 77%;
 }
 
 #contact p i {
-	min-width: 25px;
+	min-width: 30px;
+	text-align: center;
 }
 
 #contact .fa-2x {
