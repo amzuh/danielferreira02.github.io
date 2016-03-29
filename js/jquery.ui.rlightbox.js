@@ -22,7 +22,7 @@ $.widget( "ui.rlightbox", {
 		againButtonLabel: "Try again",
 		rejectButtonLabel: "Reject this content",
 		overwriteTitle: false,
-		keys:Â {
+		keys: {
 			next: [78, 39],
 			previous: [80, 37],
 			close: [67, 27],
