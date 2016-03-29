@@ -1160,15 +1160,28 @@ width: 77%;
  12. Footer Style
 ------------------------------------------------------*/
 .footer{
-	background:#141423;
+	background:#474d5d;
 }
+
+#contact p {
+	padding-bottom: 5px;
+}
+
+#contact p i {
+	min-width: 25px;
+}
+
+#contact .fa-2x {
+	font-size: 1em;
+}
+
 .footer .container{
 	padding:40px 0;
 }
 
 .footer ul{
 	margin:0 auto;
-	text-align:center;
+	text-align:left;
 	list-style-type:none;
 }
 .footer ul li{
@@ -1176,10 +1189,10 @@ width: 77%;
 	text-align:center;
 	background:#ffffff;
 	color:#00bdbd;
-	line-height:42px;
+	line-height:32px;
 	margin:0 6px;
-	width:42px !important;
-	height:42px !important;
+	width:32px !important;
+	height:32px !important;
 	cursor: pointer;
 	-webkit-border-radius: 50%;
     border-radius: 50%;
@@ -1188,11 +1201,11 @@ width: 77%;
 
 .footer ul li a{
 	color:#141423;
-	width:42px !important;
-	height:42px !important;
+	width:32px !important;
+	height:32px !important;
 }
 .footer ul li a i{
-	line-height:42px !important;
+	line-height:32px !important;
 }
 
 
