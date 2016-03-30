@@ -192,7 +192,7 @@ header{
 	background:#1b1f2b;
 }
 .bannerPart img{
-	opacity:0.2;
+	opacity:0.9;
 	filter:alpha(opacity=20); /* For IE8 and earlier */
 }
 
@@ -1156,6 +1156,11 @@ width: 77%;
 	display: block;
 	text-transform: lowercase;
 }
+
+.bannerText.container {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
 /*----------------------------------------------------
  12. Footer Style
 ------------------------------------------------------*/
