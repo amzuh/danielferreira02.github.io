@@ -345,6 +345,8 @@ header{
 }
 .nav > li > a{
 	display:inline-block;
+	font-size: 14px;
+	font-weight: 600;
 }
 .navbar-nav > li{
 	float: none;
